@@ -1,7 +1,5 @@
  
-<p align="center">
-<img src="LLN_logo.png"/>
-</p>
+ 
 
 # Learn Launch Nexus
 
